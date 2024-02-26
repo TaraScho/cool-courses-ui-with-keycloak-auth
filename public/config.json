@@ -1,0 +1,5 @@
+{
+ "keycloakUrl": "http://keycloak-alb-1235574894.us-east-1.elb.amazonaws.com",
+ "keycloakRealm": "coolCourses2",
+ "keycloakClientId": "cool-courses-web-app"
+}
